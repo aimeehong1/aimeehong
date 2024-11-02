@@ -1,6 +1,6 @@
 # Hello website!
 
-This is a website built with HTML and CSS using Glitch.
+This is a website built with HTML and CSS using Glitch. Access it via this link: <a href="https://aimeehong.glitch.me/">Aimee Hong's Personal Website</a>
 
 ## What's in this project?
 
@@ -17,3 +17,4 @@ This is a website built with HTML and CSS using Glitch.
 ← `project3.html`: This displays my third project
 
 ← `style.css`: CSS file with styling rules for my project
+
